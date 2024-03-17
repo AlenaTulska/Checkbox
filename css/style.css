@@ -237,6 +237,10 @@ align-items: center;
 	justify-content: center;
 }
 
+.link {
+	cursor: pointer;
+}
+
 .hidden {
 	position: absolute;
 	opacity: 0;
@@ -245,10 +249,7 @@ align-items: center;
 	height: 0;
 }
 
-.icon a {
-	cursor: pointer;
-}
-.fb {
+.facebook {
 	width: 14px;
 }
 .icon {
